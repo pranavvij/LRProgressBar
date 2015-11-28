@@ -17,4 +17,5 @@
         android:layout_width="100dp"
         android:layout_height="100dp" />
 ```
-ProgressBar similar to Adobe LightRoom App.Just Add Above piece of code in your xml layout.
+This is a sample repository and check out the video (https://www.youtube.com/watch?v=qpy6U_j5AKA).ProgressBar is similar to Adobe LightRoom App.Just Add Above piece of code in your xml layout.
+Happy Coding!!
